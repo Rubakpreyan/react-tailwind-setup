@@ -185,7 +185,7 @@ After compiling
 ./ShellFileName.sh  <React file name>
 ```
 
-[File link for above code]()
+[File link for above code](https://github.com/Rubakpreyan/react-tailwind-setup/blob/main/shell.sh)
 
 ## Purge TailwindCSS Files
 
