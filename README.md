@@ -326,6 +326,6 @@ yarn-error.log*
 
 ### File structure
 
-| Before development | After development and purged |
-| ------------------ | ---------------------------- |
-| ![image]()         | ![image]()                   |
+| Before development                                                                                | After development and purged                                                                     |
+| ------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
+| ![image](https://github.com/Rubakpreyan/react-tailwind-setup/blob/main/images/Before%20setup.jpg) | ![image](https://github.com/Rubakpreyan/react-tailwind-setup/blob/main/images/After%20setup.jpg) |
