@@ -1,6 +1,6 @@
 # React + TailwindCSS Setup
 
-## Use the biolerplate
+## Use the boilerplate
 
 Clone this repo and navigate to the directory.
 
