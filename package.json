@@ -7,6 +7,7 @@
     "@testing-library/react": "^11.2.7",
     "@testing-library/user-event": "^12.8.3",
     "autoprefixer": "^10.3.1",
+    "cssnano": "^5.0.6",
     "postcss": "^8.3.5",
     "postcss-cli": "^8.3.1",
     "react": "^17.0.2",
@@ -19,7 +20,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "build:css:dev": "postcss src/css/tailwind.css -o src/css/build/styles.css",
+    "build:css:prod": "postcss src/css/tailwind.css -o src/css/main.css"
   },
   "eslintConfig": {
     "extends": [
